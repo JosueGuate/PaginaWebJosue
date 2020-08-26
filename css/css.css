@@ -1,0 +1,71 @@
+#n1,p{
+	font-size: 30px;
+}
+
+#contenedor,p{
+
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	width: 1440px;
+	height: 43px;
+}
+
+
+
+.tamaño{
+	font-size: 30px;
+	
+}
+
+#caja1,p{
+	float: left;
+	background-color: red;
+	border: 10px solid;
+	border-color: blue;
+	width: 500px
+	
+
+}
+
+#caja2,p{
+	float: left;
+	border: 10px solid;
+	border-color: blue;
+	width: 500px
+
+	
+}
+
+#caja3,p{
+	float: left;
+	border: 10px solid;
+	border-color: blue;
+	width: 500px
+	
+}
+
+#caja4,p{
+	float: left;
+	border: 10px solid;
+	border-color: blue;
+	width: 500px
+	
+}
+
+#caja5,p{
+	float: left;
+	border: 10px solid;
+	border-color: blue;
+	width: 500px
+	
+}
+
+#caja6,p{
+	float: left;
+	border: 10px solid;
+	border-color: blue;
+	width: 500px
+	
+}
