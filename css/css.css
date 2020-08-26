@@ -2,70 +2,116 @@
 	font-size: 30px;
 }
 
-#contenedor,p{
-
+#contenedor1,p{
+   
 	margin-top: 0px;
 	margin-right: auto;
 	margin-bottom: 0px;
 	margin-left: auto;
 	width: 1440px;
 	height: 43px;
+
 }
 
+#contenedor2,p{
+   
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	width: 1380px;
+	height: 43px;
 
+}
 
 .tamaño{
 	font-size: 30px;
 	
 }
+#acaja1,p{
+	float: left;
+	background-color: orange;
+	border: 10px solid;
+	border-color: blue;
+	width: 940px
+	
+
+}
+#acaja2,p{
+	float: right;
+	background-color: orange;
+	border: 10px solid;
+	border-color: blue;
+	max-height: 2000px;
+	min-height: 504px;
+	width: 400px
+
+}
+
+#imagen,p{
+width: 100px
+
+}
+
+#cajaimagen,p{
+float: left;
+	background-color: red;
+	height: 190px;
+	width: 130px
+}
 
 #caja1,p{
 	float: left;
-	background-color: red;
+	background-color: orange;
 	border: 10px solid;
 	border-color: blue;
-	width: 500px
+	width: 400px
 	
 
 }
 
 #caja2,p{
 	float: left;
+	background-color: orange;
 	border: 10px solid;
 	border-color: blue;
-	width: 500px
+	width: 400px
 
 	
 }
 
 #caja3,p{
 	float: left;
+	background-color: orange;
 	border: 10px solid;
 	border-color: blue;
-	width: 500px
+	width: 400px
 	
 }
 
 #caja4,p{
 	float: left;
+	background-color: orange;
 	border: 10px solid;
 	border-color: blue;
-	width: 500px
+	width: 400px
 	
 }
 
 #caja5,p{
 	float: left;
+	background-color: orange;
 	border: 10px solid;
 	border-color: blue;
-	width: 500px
+	width: 400px
 	
 }
 
 #caja6,p{
 	float: left;
+	background-color: orange;
 	border: 10px solid;
 	border-color: blue;
-	width: 500px
+	width: 400px
 	
 }
